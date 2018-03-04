@@ -3,6 +3,16 @@
 A plugin for Praat to read information from a HTK / HTS label file and
 Master Label Files.
 
+
+This software is 100% free to use as you please, but I do ask that you cite its use in any papers:
+
+@software{htklabel,  
+  author = {Shulby, Christopher and Atria, Jose},  
+  title = {htklabel},  
+  url = {http://cpran.net/plugins/htklabel/},  
+  year = {2017}  
+}  
+
 ## Installation:
 
 This plugin requires some of the existing plugins distributed through CPrAN.
